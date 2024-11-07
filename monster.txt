@@ -1,0 +1,3 @@
+spiderman,100,10,0
+wolfman,150,15,0
+ghostman,200,6,0
